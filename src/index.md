@@ -14,10 +14,10 @@ This is the developer's wiki for [Monolith](https://github.com/Monolith-Station/
 
 ## Getting Started
 
-- [:question: How do I code?](en/general-development/setup/howdoicode.md)
-- [:package: Setting up the Dev Environment](en/general-development/setup/setting-up-a-development-environment.md)
-- [:chart_with_upwards_trend: Git for the Monolith Developer](en/general-development/setup/git-for-the-ss14-developer.md)
-- [:rocket: Mapping 101](en/space-station-14/mapping.md)
+- [:question: How do I code?](en/upstream/general-development/setup/howdoicode.md)
+- [:package: Setting up the Dev Environment](en/upstream/general-development/setup/setting-up-a-development-environment.md)
+- [:chart_with_upwards_trend: Git for the Monolith Developer](en/upstream/general-development/setup/git-for-the-ss14-developer.md)
+- [:rocket: Mapping 101](en/upstream/space-station-14/mapping.md)
 - [:art: Spriting 101]()
 
 ### What should I work on?
