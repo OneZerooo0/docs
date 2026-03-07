@@ -137,7 +137,7 @@ colornetwork [Pipe ID (you can see it by right clicking the pipe)] Pipe [color h
 * Fire Extinguisher cabinet (Filled)
 * Internals cabinet/Suit storage (Filled)
 * Defibrillator cabinet (Filled)
-* All visible tiles should be tiled accordingly, don't leave them as bare plating (don't forget under airlocks) <!-- Could use a better rewording -->
+* Generally, non-exterior tiles should be proper interior tiles and not plating, including under airlocks.
 * If the ship's components present any hazard such as radiation, the ship must provide corresponding protective gear and, if applicable, shielding.
 
 *External ship components*
