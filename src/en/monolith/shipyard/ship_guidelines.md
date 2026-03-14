@@ -170,7 +170,7 @@ colornetwork [Pipe ID (you can see it by right clicking the pipe)] Pipe [color h
 *External ship components*
 * Exterior walls should be “reinforced” (plasteel) walls
 * Follow the below example when placing walls under plating. For what is allowed, allowed on a case by case basis & forbidden
-  ![alt text](https://github.com/UnicornOnLSD/mono-docs/blob/guidelines-redo/src/en/assets/_Mono/images/mapping/exteriorTileRuling.png?raw=true)
+  ![alt text](https://github.com/Monolith-Station/mono-docs/blob/master/src/en/assets/_Mono/images/mapping/exteriorTileRuling.png?raw=true)
 * External airlocks & docking ports
   - Exterior doors should either be docks or “external” airlocks
   - Directional fans under all external airlocks
@@ -185,7 +185,7 @@ colornetwork [Pipe ID (you can see it by right clicking the pipe)] Pipe [color h
    - Medium & below: Only allowed for opposing directions. I.E left/right or front/back. (See the RSC Scallywag, it's a great example of that rule.)
    - Large & above: All directions allowed
 * Integrate your thrusters properly into the hull ! Follow the below example for what is allowed, allowed on a case by case basis & forbidden
-  ![alt text](https://github.com/UnicornOnLSD/mono-docs/blob/guidelines-redo/src/en/assets/_Mono/images/mapping/largeThrusterRuling.png?raw=true)
+  ![alt text](https://github.com/Monolith-Station/mono-docs/blob/master/src/en/assets/_Mono/images/mapping/largeThrusterRuling.png?raw=true)
 * Reinforced hull plating under ship guns & thrusters (necessary so they aren't shot off easily)
   - Decal or catwalk on top for aesthetics
 
@@ -274,24 +274,24 @@ ADS ships are as of 14th of March 2026 in a nebulous state in monolith. Ask a ma
 ## Size & niches
 
 *Size*
-*Small: Small, up to discretion - but usually ~10x20 tiles large.
-*Medium: Medium, up to discretion - usually 20x40 tiles large.
-*Large: Large vessel, up to discretion - usually ~30x60 tiles large
-*Capital: Massive vessel, up to discretion - think Halcyon/Jupiter/Flyssa
-*Station: Station sized. Only for POIs. Up to discretion.
+* Small: Small, up to discretion - but usually ~10x20 tiles large.
+* Medium: Medium, up to discretion - usually 20x40 tiles large.
+* Large: Large vessel, up to discretion - usually ~30x60 tiles large
+* Capital: Massive vessel, up to discretion - think Halcyon/Jupiter/Flyssa
+* Station: Station sized. Only for POIs. Up to discretion.
 
 *Economy Niche*
-*Medical: Has equipment for medical activities, including surgery
-*Chemistry: Has equipment for chemistry
-*Service: Generic term. Usually for civic service, including cooking and botany.
-*Research: Research vessel, capable of xenoarchaeology and has production equipment. May also have anomaly research functionality if large enough.
-*Engineering: Production vessel, particularly for repairs and other miscellanous economy strategies.
-*Atmos: Atmospherics vessel, with gas extraction and (if large enough) gas processing equipment.
-*Cargo: Vessel with plenty of storage space, for player use.
+* Medical: Has equipment for medical activities, including surgery
+* Chemistry: Has equipment for chemistry
+* Service: Generic term. Usually for civic service, including cooking and botany.
+* Research: Research vessel, capable of xenoarchaeology and has production equipment. May also have anomaly research functionality if large enough.
+* Engineering: Production vessel, particularly for repairs and other miscellanous economy strategies.
+* Atmos: Atmospherics vessel, with gas extraction and (if large enough) gas processing equipment.
+* Cargo: Vessel with plenty of storage space, for player use.
 
 *Miscellaneous*
-*Wild: Wildcard. Put whatever you want here, as long as it follows other included restrictions.
-*Multipurpose: Vessel may include multiple economic niches.
+* Wild: Wildcard. Put whatever you want here, as long as it follows other included restrictions.
+* Multipurpose: Vessel may include multiple economic niches.
   
 ## Economy Functionality Requirements
 These are general requirments for ship designation. Feel free to lightly deviate from them if you think this serves the spirit of the ship. (doing so doesn't guarantee approval)
