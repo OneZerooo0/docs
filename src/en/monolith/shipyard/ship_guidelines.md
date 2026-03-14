@@ -170,7 +170,7 @@ colornetwork [Pipe ID (you can see it by right clicking the pipe)] Pipe [color h
 *External ship components*
 * Exterior walls should be “reinforced” (plasteel) walls
 * Follow the below example when placing walls under plating. For what is allowed, allowed on a case by case basis & forbidden
-  [Insert image]
+  ![alt text](https://github.com/UnicornOnLSD/mono-docs/blob/guidelines-redo/src/en/assets/_Mono/images/mapping/exteriorTileRuling.png?raw=true)
 * External airlocks & docking ports
   - Exterior doors should either be docks or “external” airlocks
   - Directional fans under all external airlocks
@@ -185,6 +185,7 @@ colornetwork [Pipe ID (you can see it by right clicking the pipe)] Pipe [color h
    - Medium & below: Only allowed for opposing directions. I.E left/right or front/back. (See the RSC Scallywag, it's a great example of that rule.)
    - Large & above: All directions allowed
 * Integrate your thrusters properly into the hull ! Follow the below example for what is allowed, allowed on a case by case basis & forbidden
+  ![alt text](https://github.com/UnicornOnLSD/mono-docs/blob/guidelines-redo/src/en/assets/_Mono/images/mapping/largeThrusterRuling.png?raw=true)
 * Reinforced hull plating under ship guns & thrusters (necessary so they aren't shot off easily)
   - Decal or catwalk on top for aesthetics
 
