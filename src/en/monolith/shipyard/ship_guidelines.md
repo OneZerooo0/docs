@@ -25,7 +25,7 @@ When PRing a tweak of an existing ship, you must also include an image of the sh
 To render ship images use the following command:
 
 ```admonish info
-dotnet run ---project Content.MapRenderer Resources/Maps/_Mono/Shuttles/your_shuttle.yml
+dotnet run \--project Content.MapRenderer Resources/Maps/_Mono/Shuttles/your_shuttle.yml
 ```
 
 Keep in mind that:
