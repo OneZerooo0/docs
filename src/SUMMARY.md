@@ -26,6 +26,8 @@ Monolith
   - [Vocab/Important Concepts](en/monolith/combat/vocab.md)
   - [Ground Combat](en/monolith/combat/groundcombat.md)
   - [Space Combat](en/monolith/combat/spacecombat.md)
+- [Factions](en/monolith/factions.md)
+  - [Minor Faction Guidelines](en/monolith/factions/minor_faction_guidelines.md)
 
 
 
