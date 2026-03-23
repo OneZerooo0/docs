@@ -8,9 +8,12 @@ This section contains information regarding the creation of minor faction conten
 
 Minor factions are factions usually originating from players, which may be formalized through the introduction of content in-game. (Possibly also referred to as "companies.")
 
-#### Disclaimer!
+#### Disclaimer! + Approval
 
 Making a minor faction is difficult and requires a significant time investment to develop. This is also an open source game and getting content added will be hard, *especially* if you don't already know how to make content.
+
+- Your minor faction should have a. Maintainer approval for its implementation, b. content, *and* c. a plan for future additions with reasonable assurance that said additions will be added.
+    - Approval can be gotten on our Discord in a relevant channel. A maintainer will review your proposal and give thematic approval.
 
 #### Technology and design
 - Minor faction design is up to the creator - However, we ask that the style remain consistent, and that minor factions stay in their league and do not become related to *everything* (e.g a low-tech faction suddenly using laser weapons, a "cargo" company that also is related to every piece of content, etc.)
@@ -19,6 +22,11 @@ Making a minor faction is difficult and requires a significant time investment t
 - Minor faction technology should remain accessible to the public until said faction has enough content to justify gatekeeping it.
 - Minor faction technology must not be accessible to other factions - This can be achieved by blacklisting relevant research from TSF/PDV servers. Accessibility can depend on the faction, through a custom research server, lathe, or with technology available to the public.
 - As for placement of research nodes, they should be to the *left* of the main research tree.
+
+#### Content
+- Minor faction content can really be most things, though content should match the faction's theming, be balanced, and be unique.
+- Some examples include structure upgrades (e.g faster grinder/centrifuge), equipment (specialized damage type clothing/weapons, upgraded magboots), cool decorations, and just generally cool gimmicky things.
+    - To clarify: Content should not be overpowered! Gimmicks and coolness yes, instakills and infinite money no.
 
 #### Balancing
 - Minor faction gear should adhere to [ground combat guidelines.](en/monolith/combat/groundcombat.md)
@@ -31,6 +39,5 @@ Making a minor faction is difficult and requires a significant time investment t
 - Intermingling lore of minor factions together should only be done with both side's creator approval.
 
 #### Importance
-- Your minor faction should have a. Maintainer approval for its implementation, b. content, *and* c. a plan for future additions with reasonable assurance that said additions will be added.
 - Minor factions should first develop content before becoming "the leading producer of x" and becoming intermingled with other lore.
     - The world doesn't revolve around you - Start small and as your faction becomes more popular, its relevance will expand.
