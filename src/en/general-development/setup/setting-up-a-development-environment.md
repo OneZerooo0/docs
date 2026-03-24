@@ -3,7 +3,7 @@
 First you're gonna need some software:
 
 * [Git](https://git-scm.com/) or one of the [many](https://www.sourcetreeapp.com/) [third-party](http://www.syntevo.com/smartgit/) [UIs](https://tortoisegit.org/) that make it easier to use. Make sure to let it install to your PATH like [this](../../assets/images/setup/git-path.png).
-* [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0). Visual Studio also installs this if you're on Windows.
+* [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0). Visual Studio also installs this if you're on Windows.
   * Apple Silicon (ARM64) Mac users: Some older codebases will only work with the x64 .NET and not the ARM64 one. You can either download x64 dotnet, or suggest your codebase to update their robust toolbox to at minimum 267.0.0 to add support (or just update it yourself).
 * Preferably an IDE to make development not painful (all free options unless otherwise noted):
   * For **all platforms**, [Rider](https://www.jetbrains.com/rider/) is one of the best IDEs available, and many SS14 maintainers and contributors prefer it over Visual Studio. It used to be paid but now it's free for Non-Commercial use.
@@ -67,7 +67,7 @@ For Windows, go into bat folder and use the updateEngine.bat script
 
 For Linux, go into the sh folder and use the updateEngine.sh script
 
-Note: If you have any issues when getting started with missing files it's recommended you run `git submodule update --init --recursive` by hand once.
+Note: If you have any issues when getting started with missing files it's recommended you run `git submodule update --init --recursive` by hand once. You can also just run this in terminal instead of using the scripts.
 
 If you *do* want to modify the engine directly however, or you want to update the submodule manually (the auto updating can be a pain), make a file called `DISABLE_SUBMODULE_AUTOUPDATE` inside the `BuildChecker/` directory. 
 
