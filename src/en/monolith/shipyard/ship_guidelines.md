@@ -314,6 +314,8 @@ ADS ships are as of 14th of March 2026 in a nebulous state in monolith. Ask a ma
 * External access (no dock, only external !
 * No IFF console <!-- todo adjust iff system for ADS -->
 
+Suggestions for External Access: Use an airlock armored up by a blast door, potentially multiple airlocks. Use buttons to control the blast door from the inside.
+
 *Armaments*
 * Curio weapon set
 * Heavy armor (plastitanium/nanolaminate)
